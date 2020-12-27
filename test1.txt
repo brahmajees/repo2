@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C6D0-4590
+
+ Directory of D:\gitsbr
+
+27/12/2020  11:05 AM    <DIR>          .
+27/12/2020  11:05 AM    <DIR>          ..
+27/12/2020  11:05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,792,880,640 bytes free
